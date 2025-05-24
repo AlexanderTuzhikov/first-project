@@ -7,5 +7,4 @@
 '''java
 
 System.out.println("Здесь написан код");
-
 '''
